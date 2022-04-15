@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935090461902",
+    "project_id": "project-situ-whatsapp",
+    "storage_bucket": "project-situ-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935090461902:android:ff7af41b650ac875ccc49f",
+        "android_client_info": {
+          "package_name": "com.projectsitu.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935090461902-s5r1bcgdbac9ulr3eh0mdi9fi2odj3gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJx94gwYKbl1228Cv0QQTNp4uRggJkas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935090461902-s5r1bcgdbac9ulr3eh0mdi9fi2odj3gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
